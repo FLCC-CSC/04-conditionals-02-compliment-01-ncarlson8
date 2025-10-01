@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Nick Carlson
+# DATE: 9/29/2025
+# BRIEF DESCRIPTION: Ask if the user wants a compliment, and if they say "yes" then do so. Otherwise do not print it.
 
 
 
@@ -14,16 +14,10 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-
-
-
-
-
-
-
-
-
-
+user_input = input("Would you like a compliment? ")
+if user_input == "yes":
+    print("You have wonderful eyes.")
+print("Thank you for playing.")
 ########### END YER CODE ABOVE THIS LINE ###########
 
     
@@ -67,12 +61,12 @@ Thank you for playing.
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
 
-
+2
 
 
 2. What was the hardest part of this lab?
 
-
+Hitting the keys on the keyboard
 
 
 
